@@ -55,7 +55,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="left">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-darkgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+[![WhatsApp Channel](https://img.shields.io/badge/Follow%20WhatsApp%20Channel-darkgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -64,7 +64,8 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="left">
 
-[![Subscribe Youtube Channel](https://img.shields.io/badge/Subscribe%20-Youtube%20Channel%20-FF00F8)]mnbj00(https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/fork)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe%20Youtube%20Channel-darkgreen?style=for-the-badge&logo=youtube)](https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX)
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
