@@ -1,5 +1,5 @@
 {
-  "name": "SHEIKH-ALI-MD",
+  "name": "𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃",
   "description": "Javascript WhatsApp bot made by 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶",
   "logo": "https://i.ibb.co/YdSKMhv/6767.jpg",
   "keywords": ["SHEIKH-ALI-MD"],
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs sᴇᴇɴ ᴊᴜsᴛ ɴᴏᴡ ʙʏ ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑"
    
      }, 
     
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHEIKH-ALI-MD"
+      "value": "𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃"
 
       }, 
 
