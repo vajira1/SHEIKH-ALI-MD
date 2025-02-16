@@ -35,7 +35,11 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
 ┃◈┃• *Number* ${ownerNumber}
-┃◈┃• *Version*: 2.0.0 Beta
+┃◈┃• *WhatsApp*: https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B
+┃◈┃• *YouTube*: https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX
+┃◈┃• *Instagram*: https://www.instagram.com/sheikh_ali_2424?igsh=MW4wbWN1ejFsODJyag==
+┃◈┃• *Facebook*: https://www.facebook.com/share/15oHg1oLXk/
+┃◈┃• *Tiktok*: https://www.tiktok.com/@sheikh_ali_2412
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡`, // Display the owner's details
