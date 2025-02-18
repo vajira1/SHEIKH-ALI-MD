@@ -33,7 +33,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• Convertmenu
 ┃◈┃• Funmenu
 ┃◈┃• Dlmenu
-┃◈┃• Listcmd
 ┃◈┃• Mainmenu
 ┃◈┃• Groupmenu
 ┃◈┃• Allmenu
@@ -41,6 +40,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• Othermenu
 ┃◈┃• Logo <text>
 ┃◈┃• Repo
+┃◈┃• Scammer 
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -445,7 +445,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• owner
 ┃◈┃• menu
 ┃◈┃• menu2
-┃◈┃• listcmd
 ┃◈┃• allmenu
 ┃◈┃• repo
 ┃◈┃• block
