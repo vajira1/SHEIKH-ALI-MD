@@ -19,14 +19,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi_bc_scammer🖕🏻
 ┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi_bc_scammer🖕🏻
 ┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi_bc_scammer🖕🏻
-┃★│ BC gashti🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi_bc_scammer🖕🏻
+┃★│ BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi_bc_scammer🖕🏻
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
-╭━━〔 *Contact to the owner* 〕━━┈⊷
+╭━━〔 *Important Message* 〕━━┈⊷
 ┃◈╭─────────────·๏
+┃◈┃• Please report to all these scammers's numbers.
 ┃◈┃• If you have more scammers's number so contact me. I will add in my bot.
-┃◈┃• Type .owner to get my number
+┃◈┃• Type .owner to get my number.
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
