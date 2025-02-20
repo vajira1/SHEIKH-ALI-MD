@@ -13,14 +13,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━━〔 *Scammers's Numbers* 〕━━━┈⊷
 ┃★╭─────────────·๏
-┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923181093514&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi_bc_scammer🖕🏻
-┃★│ BC tatta 7🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi_bc_scammer🖕🏻
-┃★│ BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi_bc_scammer🖕🏻
+┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923181093514&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 7🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi+bc+scammer🖕🏻
+┃★│ BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi+bc+scammer🖕🏻
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
@@ -28,7 +28,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• Please report to all these scammers's numbers.
 ┃◈┃• If you have more scammers's number so contact me. I will add in my bot.
-┃◈┃• Owner: https://api.whatsapp.com/send?phone=923143702270&text=Hello_𓄂.𝑺𝑯𝑬𝑰𝑲𝑯_𝑨𝑳𝑰_🔥༽༼_♡_I_have_scammer's_number._please_add_in_your_bot🥰.
+┃◈┃• Owner: https://api.whatsapp.com/send?phone=923143702270&text=Hello+𓄂.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼+♡+I+have+scammer's+number.+Please+add+in+your+bot🥰.
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
