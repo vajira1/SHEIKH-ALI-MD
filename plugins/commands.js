@@ -3,7 +3,7 @@ const { cmd, commands } = require('../command');
 
 cmd({
     pattern: "scammer",
-    alias: ["chutiye","bctatty"],
+    alias: ["randi-ki-olad","bctatty"],
     desc: "menu the bot",
     category: "menu",
     react: "⚡",
@@ -13,12 +13,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━━〔 *Scammers's Numbers* 〕━━━┈⊷
 ┃★╭─────────────·๏
-┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923181093514&text=hi+bc+scammer🖕🏻
-┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=hi+bc+scammer🖕🏻
-┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=hi+bc+scammer🖕🏻
-┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=hi+bc+scammer🖕🏻
-┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=hi+bc+scammer🖕🏻
-┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=hi+bc+scammer🖕🏻
+┃★│ BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923181093514&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
 ┃★│ BC tatta 7🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi+bc+scammer🖕🏻
 ┃★│ BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi+bc+scammer🖕🏻
 ┃★╰──────────────
