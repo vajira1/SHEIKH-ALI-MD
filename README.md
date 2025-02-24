@@ -139,6 +139,6 @@ jobs:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=red&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![ALI AHMAD FAROOQ](https://i.ibb.co/yc3j9Qdw/8490.jpg) is](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
+| [![ALI AHMAD FAROOQ](https://i.ibb.co/yc3j9Qdw/8490.jpg) is](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
