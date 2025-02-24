@@ -136,8 +136,6 @@ jobs:
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐" alt="">
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
 |--------------------------------|
