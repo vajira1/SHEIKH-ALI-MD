@@ -77,6 +77,11 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 </a>
 
 <p align="left">
+<a href='https://sheikh-ali-md-pair2-6bbf00a17e3f.herokuapp.com/pair' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0099?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+<p align="left">
 <a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FFC900?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
